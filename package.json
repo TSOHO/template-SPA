@@ -1,0 +1,28 @@
+{
+  "name": "template-spa",
+  "version": "0.0.2",
+  "description": "xiaoaojiao template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSOHO/template-SPA.git"
+  },
+  "keywords": [
+    "xiaoaojiao",
+    "template"
+  ],
+  "author": "h.yingzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TSOHO/template-SPA/issues"
+  },
+  "homepage": "https://github.com/TSOHO/template-SPA#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "vue": "^2.5.2",
+    "vuex": "^3.0.0"
+  }
+}
